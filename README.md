@@ -88,3 +88,4 @@ To build a **scalable, gamified, and AI-enabled digital physiotherapy assistant*
 - **Assists therapists** → saves monitoring time  
 - **Bridges access gaps** → benefits rural/underserved populations
 
+Presentation is available as a PDF in `misc\Presentation.pdf`.
